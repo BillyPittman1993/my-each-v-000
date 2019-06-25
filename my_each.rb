@@ -6,6 +6,7 @@ def my_each(array)
     i += 1 
     yield(array[1])
   end
+  
   array 
   end
 end
