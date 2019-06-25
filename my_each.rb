@@ -10,4 +10,4 @@ end
   array 
 end
 
-puts my_each(array)
+puts my_each
